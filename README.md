@@ -1,43 +1,35 @@
-# 👋 ¡Hola! Soy Cariciolo  
-# 👋 Hi! I'm Cariciolo
+👋 Hi! I'm Cariciolo
+Administrador de Sistemas | Ciberseguridad | Middleware Developer
+Administrador de Sistemas enfocado en la optimización de infraestructura, seguridad de la información y automatización de procesos críticos.
+Systems Administrator focused on infrastructure optimization, information security, and critical process automation.
 
-Estudiante de ASIR, apasionado por la ciberseguridad y siempre con muchas ganas de aprender.  
-ASIR student, passionate about cybersecurity and always eager to learn.
+🔭 I’m currently working on ... Liderando la arquitectura de un Middleware para la sincronización masiva de inventario (~89.000 referencias) entre sistemas ERP (SQL Server) e infraestructura Cloud (Shopify).
 
-## Mis insignias Holopin  
-## My Holopin badges
+Leading the architecture of a Middleware for mass inventory synchronization (~89,000 references) between ERP systems (SQL Server) and Cloud infrastructure (Shopify).
 
-[![An image of @cariciolo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cariciolo)](https://holopin.io/@cariciolo)
+🌱 I’m currently learning ... Especializándome en técnicas avanzadas de Ciberseguridad, gestión de colas de procesos y optimización de bases de datos relacionales.
 
----
+Specializing in advanced cybersecurity techniques, process queue management, and relational database optimization.
 
-- 🔭 I’m currently working on ...  
-  Tecnico informatico.  
-  IT technician.
+👯 I’m looking to collaborate on ... Proyectos de automatización industrial, integración de APIs complejas y auditoría de seguridad en redes.
 
-- 🌱 I’m currently learning ...  
-  Aprendiendo sobre Ciberseguridad, administración de sistemas y nuevas tecnologías.  
-  Learning about cybersecurity, systems administration, and new technologies.
+Automation projects, complex API integrations, and network security auditing.
 
-- 👯 I’m looking to collaborate on ...  
-  Proyectos de ciberseguridad, redes o administración de sistemas.  
-  Cybersecurity, networking, or systems administration projects.
+🤔 I’m looking for help with ... Estrategias de despliegue de microservicios y escalabilidad de infraestructuras híbridas.
 
-- 🤔 I’m looking for help with ...  
-  Consejos para iniciarme profesionalmente en ciberseguridad.  
-  Advice on starting a professional career in cybersecurity.
+Microservices deployment strategies and hybrid infrastructure scalability.
 
-- 💬 Ask me about ...  
-  Temas de ASIR, primeros pasos en ciberseguridad, o curiosidades sobre Linux.  
-  ASIR topics, getting started in cybersecurity, or fun facts about Linux.
+💬 Ask me about ... Administración de sistemas (ASIR), integración de datos ERP -> E-commerce, y administración de entornos Linux.
 
-- 📫 How to reach me: ...  
-  cariciolo@gmail.com  
+Systems administration (ASIR), ERP -> E-commerce data integration, and Linux environment administration.
 
-- 😄 Pronouns: ...  
-  Él  
-  He/him
+📫 How to reach me: cariciolo@gmail.com
 
-- ⚡ Fun fact: ...  
-  Me encanta aprender cosas nuevas y desmontar aparatos para ver cómo funcionan (lo malo es volver a montarlos y que sobre algún tornillo 😅).  
-  I love learning new things and taking devices apart to see how they work (the problem is putting them back together and ending up with leftover screws 😅).
+😄 Pronouns: Él / He/him
+
+⚡ Fun fact: Mi enfoque profesional se basa en la ingeniería inversa: entender cómo funcionan los sistemas desde su núcleo para reconstruirlos de forma más eficiente y segura.
+
+My professional approach is based on reverse engineering: understanding how systems work from the core to rebuild them more efficiently and securely.
+
+### Mis insignias Holopin / My Holopin badges
+[![An image of @cariciolo's Holopin badges](https://holopin.me/cariciolo)](https://holopin.io/@cariciolo)
