@@ -1,35 +1,53 @@
-👋 Hi! I'm Cariciolo
-Administrador de Sistemas | Ciberseguridad | Middleware Developer
-Administrador de Sistemas enfocado en la optimización de infraestructura, seguridad de la información y automatización de procesos críticos.
-Systems Administrator focused on infrastructure optimization, information security, and critical process automation.
+## 👋 Soy Cariciolo — Administrador de Sistemas | Conectando ERP, Cloud y Ciberseguridad
 
-🔭 I’m currently working on ... Liderando la arquitectura de un Middleware para la sincronización masiva de inventario (~89.000 referencias) entre sistemas ERP (SQL Server) e infraestructura Cloud (Shopify).
+*Systems Administrator connecting ERP, Cloud infrastructure, and Security.*
 
-Leading the architecture of a Middleware for mass inventory synchronization (~89,000 references) between ERP systems (SQL Server) and Cloud infrastructure (Shopify).
+No solo administro sistemas: los diseño para que se hablen entre sí sin que nadie tenga que intervenir a mano.
 
-🌱 I’m currently learning ... Especializándome en técnicas avanzadas de Ciberseguridad, gestión de colas de procesos y optimización de bases de datos relacionales.
+*I don't just administer systems: I design them to talk to each other without anyone having to step in manually.*
 
-Specializing in advanced cybersecurity techniques, process queue management, and relational database optimization.
+<br>
 
-👯 I’m looking to collaborate on ... Proyectos de automatización industrial, integración de APIs complejas y auditoría de seguridad en redes.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Automation projects, complex API integrations, and network security auditing.
+---
 
-🤔 I’m looking for help with ... Estrategias de despliegue de microservicios y escalabilidad de infraestructuras híbridas.
+<img src="https://github-readme-stats.vercel.app/api?username=Cariciolo&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" alt="Estadísticas de GitHub" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cariciolo&hide_border=true" width="49%" alt="Racha de contribuciones" />
 
-Microservices deployment strategies and hybrid infrastructure scalability.
+---
 
-💬 Ask me about ... Administración de sistemas (ASIR), integración de datos ERP -> E-commerce, y administración de entornos Linux.
+### 🔧 En qué estoy metido ahora mismo / What I'm building right now
 
-Systems administration (ASIR), ERP -> E-commerce data integration, and Linux environment administration.
+Lidero la arquitectura de un **middleware en Laravel** que sincroniza en tiempo real **~89.000 referencias de inventario** entre un ERP (SQL Server) y Shopify — colas, reconciliación automática y control de fallos incluidos.
 
-📫 How to reach me: cariciolo@gmail.com
+*Leading the architecture of a Laravel middleware that syncs ~89,000 inventory references in real time between an on-prem ERP (SQL Server) and Shopify — with queues, automatic reconciliation, and failure handling built in.*
 
-😄 Pronouns: Él / He/him
+### 🧠 Cómo trabajo / How I work
 
-⚡ Fun fact: Mi enfoque profesional se basa en la ingeniería inversa: entender cómo funcionan los sistemas desde su núcleo para reconstruirlos de forma más eficiente y segura.
+Antes de tocar una línea de código, someto cada decisión técnica a un comité interno de cinco perspectivas — seguridad, rendimiento, base de datos, arquitectura y mantenibilidad — y solo avanzo cuando las cinco están de acuerdo. Es lento al principio y muy rápido después: evita reescribir por haber mirado solo un ángulo.
 
-My professional approach is based on reverse engineering: understanding how systems work from the core to rebuild them more efficiently and securely.
+*Before writing a line of code, I run every technical decision through an internal five-lens review — security, performance, database, architecture, maintainability — and only move forward once all five agree. Slower up front, much faster afterward: it avoids rewrites caused by tunnel vision.*
 
-### Mis insignias Holopin / My Holopin badges
+### 🌱 En formación activa / Actively training in
+
+ASIR (Administración de Sistemas Informáticos en Red), con foco en ciberseguridad aplicada a infraestructuras reales — no solo teoría, sino auditando y asegurando lo que yo mismo construyo.
+
+*ASIR (Network Systems Administration), focused on cybersecurity applied to real infrastructure — not just theory, but auditing and securing what I actually build.*
+
+### 📫 Contacto / Contact
+
+cariciolo@gmail.com
+
+---
+
+### Mis insignias Holopin
 [![An image of @cariciolo's Holopin badges](https://holopin.me/cariciolo)](https://holopin.io/@cariciolo)
