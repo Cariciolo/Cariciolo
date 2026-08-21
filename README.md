@@ -1,4 +1,4 @@
-## 👋 Soy Cariciolo — Administrador de Sistemas | Conectando ERP, Cloud y Ciberseguridad
+## Soy Cariciolo — Administrador de Sistemas | Conectando ERP, Cloud y Ciberseguridad
 
 *Systems Administrator connecting ERP, Cloud infrastructure, and Security.*
 
@@ -20,25 +20,25 @@ No solo administro sistemas: los diseño para que se hablen entre sí sin que na
 
 ---
 
-### 🔧 En qué estoy metido ahora mismo / What I'm building right now
+### En qué estoy metido ahora mismo / What I'm building right now
 
 Lidero la arquitectura de un **middleware en Laravel** que sincroniza en tiempo real **~89.000 referencias de inventario** entre un ERP (SQL Server) y Shopify — colas, reconciliación automática y control de fallos incluidos.
 
 *Leading the architecture of a Laravel middleware that syncs ~89,000 inventory references in real time between an on-prem ERP (SQL Server) and Shopify — with queues, automatic reconciliation, and failure handling built in.*
 
-### 🧠 Cómo trabajo / How I work
+### Cómo trabajo / How I work
 
 Antes de tocar una línea de código, someto cada decisión técnica a un comité interno de cinco perspectivas — seguridad, rendimiento, base de datos, arquitectura y mantenibilidad — y solo avanzo cuando las cinco están de acuerdo. Es lento al principio y muy rápido después: evita reescribir por haber mirado solo un ángulo.
 
 *Before writing a line of code, I run every technical decision through an internal five-lens review — security, performance, database, architecture, maintainability — and only move forward once all five agree. Slower up front, much faster afterward: it avoids rewrites caused by tunnel vision.*
 
-### 🌱 En formación activa / Actively training in
+### En formación activa / Actively training in
 
 ASIR (Administración de Sistemas Informáticos en Red), con foco en ciberseguridad aplicada a infraestructuras reales — no solo teoría, sino auditando y asegurando lo que yo mismo construyo.
 
 *ASIR (Network Systems Administration), focused on cybersecurity applied to real infrastructure — not just theory, but auditing and securing what I actually build.*
 
-### 📫 Contacto / Contact
+### Contacto / Contact
 
 [![Email](https://img.shields.io/badge/Email-cariciolo%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cariciolo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-miguelcariciolo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelcariciolo/)
