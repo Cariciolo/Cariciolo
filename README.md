@@ -20,11 +20,6 @@ No solo administro sistemas: los diseño para que se hablen entre sí sin que na
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cariciolo&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" alt="Estadísticas de GitHub" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cariciolo&hide_border=true" width="49%" alt="Racha de contribuciones" />
-
----
-
 ### 🔧 En qué estoy metido ahora mismo / What I'm building right now
 
 Lidero la arquitectura de un **middleware en Laravel** que sincroniza en tiempo real **~89.000 referencias de inventario** entre un ERP (SQL Server) y Shopify — colas, reconciliación automática y control de fallos incluidos.
