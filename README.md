@@ -40,7 +40,10 @@ ASIR (Administración de Sistemas Informáticos en Red), con foco en ciberseguri
 
 ### 📫 Contacto / Contact
 
-cariciolo@gmail.com
+[![Email](https://img.shields.io/badge/Email-cariciolo%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cariciolo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-miguelcariciolo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelcariciolo/)
+[![Upwork](https://img.shields.io/badge/Upwork-perfil-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c4716ec51675728c)
+[![Malt](https://img.shields.io/badge/Malt-perfil-FC5757?style=flat-square&logo=malt&logoColor=white)](https://www.malt.es/profile/miguelcariciologuisado)
 
 ---
 
