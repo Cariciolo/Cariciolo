@@ -22,9 +22,9 @@ No solo administro sistemas: los diseño para que se hablen entre sí sin que na
 
 ### En qué estoy metido ahora mismo / What I'm building right now
 
-Lidero la arquitectura de un **middleware en Laravel** que sincroniza en tiempo real **~89.000 referencias de inventario** entre un ERP (SQL Server) y Shopify — colas, reconciliación automática y control de fallos incluidos.
+Lidero la arquitectura de un **middleware en Laravel** que sincroniza en tiempo real **más de 128.000 referencias de inventario** entre un ERP (SQL Server) y Shopify — colas, reconciliación automática y control de fallos incluidos.
 
-*Leading the architecture of a Laravel middleware that syncs ~89,000 inventory references in real time between an on-prem ERP (SQL Server) and Shopify — with queues, automatic reconciliation, and failure handling built in.*
+*Leading the architecture of a Laravel middleware that syncs 128,000+ inventory references in real time between an on-prem ERP (SQL Server) and Shopify — with queues, automatic reconciliation, and failure handling built in.*
 
 ### Cómo trabajo / How I work
 
